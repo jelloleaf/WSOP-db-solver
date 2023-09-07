@@ -33,7 +33,7 @@ Script to solve always answer correctly when do the DailyBlitz activity in the f
 * Make sure the fiddler program is running in the background. If you did everything correctly, all you need to do is open playwsop.com in your webrowser and start a game of DailyBlitz. You can now answer with any choice and you will always get the guess correct.
 
 
-<img src="https://i.imgur.com/wbJ8oJe.gif">
+![script working properly](https://github.com/jelloleaf/WSOP-db-solver/blob/main/images/wbJ8oJe.gif?raw=true)
 
 ## Help
 
